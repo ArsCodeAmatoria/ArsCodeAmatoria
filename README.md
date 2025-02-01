@@ -1,3 +1,5 @@
+![ElvenPopArt](backtest.ca_elven_girl_with_cybernetics_in_ilya_Kuvshinov_style_5cf90a36-dbc2-42bf-b5f5-55c4ee57ae0f.png)
+
 # 🏛️ Salvete! I am ArsCodeAmatoria
 
 📜 **"If code is an art, let us be its poets."** – Inspired by Ovid  
