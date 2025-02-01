@@ -1,4 +1,4 @@
-![ElvenPopArt](desktop-wallpaper-cicada-3301-cicada.jpg](https://github.com/ArsCodeAmatoria/ArsCodeAmatoria/blob/main/desktop-wallpaper-cicada-3301-cicada.jpg)
+![ElvenPopArt](https://github.com/ArsCodeAmatoria/ArsCodeAmatoria/blob/main/desktop-wallpaper-cicada-3301-cicada.jpg)
 
 # 🏛️ Salvete! I am ArsCodeAmatoria
 
