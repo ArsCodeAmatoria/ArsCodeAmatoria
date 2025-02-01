@@ -46,3 +46,5 @@
 > *"Tempus edax rerum" – Time devours all things... but great code endures!*  
 🏛️ **May your functions be pure, and your errors poetic.**  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArsCodeAmatoria&show_icons=true&theme=dracula)
+
