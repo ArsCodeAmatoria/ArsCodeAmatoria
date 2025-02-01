@@ -1,4 +1,4 @@
-![ElvenPopArt](backtest.ca_elven_girl_with_cybernetics_in_ilya_Kuvshinov_style_5cf90a36-dbc2-42bf-b5f5-55c4ee57ae0f.png)
+![ElvenPopArt](desktop-wallpaper-cicada-3301-cicada.jpg)
 
 # 🏛️ Salvete! I am ArsCodeAmatoria
 
