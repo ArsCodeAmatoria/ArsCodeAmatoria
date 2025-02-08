@@ -1,4 +1,4 @@
-[![Image](https://github.com/user-attachments/assets/4bfcef1f-48bb-43a7-a598-a01f931c76a9)](https://github.com/ArsCodeAmatoria/ArsCodeAmatoria/issues/3#issue-2839375020)
+![Image](https://github.com/user-attachments/assets/b62c9633-f0a1-488c-867b-271aa9510192)
 
 # 🏛️ Salvete! I am ArsCodeAmatoria
 
