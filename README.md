@@ -4,7 +4,7 @@
 
  **"If code is an art, let us be its poets."** – Inspired by Ovid  
 
- **Programming & Poetry | Ancient Wisdom, Modern Code** 🏛️  
+ **Programming & Poetry | Ancient Wisdom, Modern Code**   
  Crafting elegant solutions with the art of logic and language  
 
 ---
