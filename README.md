@@ -6,6 +6,8 @@
 ![React](https://img.shields.io/badge/Framework-React-61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38BDF8)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-ffca28)
+![Rust](https://img.shields.io/badge/Language-Rust-orange)
+![Polkadot](https://img.shields.io/badge/Blockchain-Polkadot-e6007a)
 
 # Salvete! I am ArsCodeAmatoria
 
