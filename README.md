@@ -1,5 +1,12 @@
 ![Image](https://github.com/user-attachments/assets/67a26aa4-6077-480b-af3a-207c88cfcff2)
 
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue)
+![Python](https://img.shields.io/badge/Language-Python-green)
+![React](https://img.shields.io/badge/Framework-React-61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38BDF8)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-ffca28)
+
 # Salvete! I am ArsCodeAmatoria
 
  **"If code is an art, let us be its poets."** – Inspired by Ovid  
