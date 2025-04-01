@@ -8,6 +8,7 @@
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-ffca28)
 ![Rust](https://img.shields.io/badge/Language-Rust-orange)
 ![Polkadot](https://img.shields.io/badge/Blockchain-Polkadot-e6007a)
+![Next.js](https://img.shields.io/badge/Framework-Next.js-black)
 
 # Salvete! I am ArsCodeAmatoria
 
