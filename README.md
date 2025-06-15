@@ -1,6 +1,6 @@
-<!-- Header Image/GIF -->
+<!-- Header Image -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/2dde836d-3638-4c70-a7c8-ae21469cabcb" width="100%" alt="Header Video">
+  <img src="https://github.com/user-attachments/assets/6690e1e1-c28b-40dd-8f0b-66665f672026" width="100%" alt="Header Image">
 </div>
 
 <div align="center">
