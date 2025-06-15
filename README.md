@@ -1,9 +1,6 @@
-<!-- Video Header -->
+<!-- Header Image/GIF -->
 <div align="center">
-  <video width="100%" autoplay muted loop>
-    <source src="https://github.com/user-attachments/assets/2dde836d-3638-4c70-a7c8-ae21469cabcb" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/user-attachments/assets/2dde836d-3638-4c70-a7c8-ae21469cabcb" width="100%" alt="Header Video">
 </div>
 
 <div align="center">
@@ -17,7 +14,7 @@
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 ```
 
-### 🌟 *"If code is an art, let us be its poets."* 🌟
+### "If code is an art, let us be its poets."
 **Programming & Poetry | Ancient Wisdom, Modern Code**
 
 ---
@@ -42,9 +39,6 @@
 ![AI](https://img.shields.io/badge/AI-Powered-4ECDC4?style=for-the-badge&logo=openai&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open-Source-45B7D1?style=for-the-badge&logo=github&logoColor=white)
 
-![GitHub Stars](https://img.shields.io/github/stars/ArsCodeAmatoria?style=for-the-badge&logo=github&logoColor=white&color=FFD700)
-![GitHub Forks](https://img.shields.io/github/forks/ArsCodeAmatoria?style=for-the-badge&logo=github&logoColor=white&color=32CD32)
-![GitHub Issues](https://img.shields.io/github/issues/ArsCodeAmatoria?style=for-the-badge&logo=github&logoColor=white&color=FF69B4)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 </div>
@@ -53,7 +47,7 @@
 
 <div align="center">
 
-## 🔥 **Salvete! I am ArsCodeAmatoria** 🔥
+## **Salvete! I am ArsCodeAmatoria**
 
 *Crafting elegant solutions with the art of logic and language*
 
@@ -61,40 +55,40 @@
 
 ---
 
-## ✨ **Ars Codicis: The Art of Code**
+## **Ars Codicis: The Art of Code**
 
 > *"Principiis obsta; sero medicina paratur..."*  
 > *("Resist the beginnings; a cure comes too late...") – Ovid*
 
-🎨 Writing **graceful and structured** code, as Ovid wrote **graceful verse**  
-📚 Weaving **ancient philosophy** into **modern programming**  
-🏛️ Exploring **history, algorithms, and poetic logic** in development  
+Writing **graceful and structured** code, as Ovid wrote **graceful verse**  
+Weaving **ancient philosophy** into **modern programming**  
+Exploring **history, algorithms, and poetic logic** in development  
 
 ---
 
-## 📜 **Current Scrolls (Projects)**
+## **Current Scrolls (Projects)**
 
-🌟 **Metacode-morphoses** – Transforming mundane scripts into digital poetry  
-⚡ **Aeneid.js** – A library for structuring epic journeys in code  
-🎲 **Fortuna.py** – A script invoking the whims of chance and fate  
-
----
-
-## 🎯 **The Ars Amatoria of Software Craftsmanship**
-
-💝 **"Love your code, but not blindly."** *(Refactor with care!)*  
-🎓 **"Teach others, for knowledge shared is knowledge immortalized."**  
-⚖️ **"Write tests, as the gods wrote fates: unyielding and absolute."**  
+**Metacode-morphoses** – Transforming mundane scripts into digital poetry  
+**Aeneid.js** – A library for structuring epic journeys in code  
+**Fortuna.py** – A script invoking the whims of chance and fate  
 
 ---
 
-## 🌈 **Tech Stack & Inspirations**
+## **The Ars Amatoria of Software Craftsmanship**
+
+**"Love your code, but not blindly."** *(Refactor with care!)*  
+**"Teach others, for knowledge shared is knowledge immortalized."**  
+**"Write tests, as the gods wrote fates: unyielding and absolute."**  
+
+---
+
+## **Tech Stack & Inspirations**
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 🎨 **Frontend Magic**
+### **Frontend Magic**
 - React & Next.js
 - TypeScript Mastery
 - TailwindCSS Artistry
@@ -103,7 +97,7 @@
 </td>
 <td align="center" width="33%">
 
-### ⚡ **Backend Power**
+### **Backend Power**
 - Node.js & Python
 - Firebase & Cloud
 - API Architecture
@@ -112,7 +106,7 @@
 </td>
 <td align="center" width="33%">
 
-### 🔗 **Web3 & Beyond**
+### **Web3 & Beyond**
 - Polkadot Ecosystem
 - Smart Contracts
 - Rust Development
@@ -124,7 +118,7 @@
 
 ---
 
-## 📊 **GitHub Analytics**
+## **GitHub Analytics**
 
 <div align="center">
 
@@ -142,17 +136,7 @@
 
 <div align="center">
 
-## 🏆 **Achievements & Trophies**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ArsCodeAmatoria&theme=radical&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-### 💫 **Connect & Collaborate**
+### **Connect & Collaborate**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
@@ -163,7 +147,7 @@
 
 > *"Tempus edax rerum" – Time devours all things... but great code endures!*  
 
-**✨ May your functions be pure, and your errors poetic. ✨**
+**May your functions be pure, and your errors poetic.**
 
 </div>
 
