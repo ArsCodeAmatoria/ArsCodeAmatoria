@@ -1,8 +1,3 @@
-<!-- Header Image -->
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6690e1e1-c28b-40dd-8f0b-66665f672026" width="100%" alt="Header Image">
-</div>
-
 <div align="center">
 
 ```
@@ -14,6 +9,11 @@
 ╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
 ```
 
+<!-- Header Image -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6690e1e1-c28b-40dd-8f0b-66665f672026" width="100%" alt="Header Image">
+</div>
+
 ### "If code is an art, let us be its poets."
 **Programming & Poetry | Ancient Wisdom, Modern Code**
 
@@ -24,22 +24,15 @@
 <!-- Badges Section -->
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Haskell](https://img.shields.io/badge/Language-Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Language-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-![React](https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Qiskit](https://img.shields.io/badge/Quantum-Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
 
-![Polkadot](https://img.shields.io/badge/Blockchain-Polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-Enabled-FF6B6B?style=for-the-badge&logo=ethereum&logoColor=white)
-![AI](https://img.shields.io/badge/AI-Powered-4ECDC4?style=for-the-badge&logo=openai&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open-Source-45B7D1?style=for-the-badge&logo=github&logoColor=white)
-
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
