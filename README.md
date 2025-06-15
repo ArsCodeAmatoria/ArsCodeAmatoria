@@ -147,6 +147,6 @@ Exploring **history, algorithms, and poetic logic** in development
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=16&fontAlignY=65&desc=ArsCodeAmatoria&descAlignY=50&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&text=Happy%20Coding!&fontSize=24&fontAlignY=65&fontColor=FFFFFF&desc=ArsCodeAmatoria&descSize=18&descAlignY=85&descAlign=50&fontAlign=50"/>
 </div>
 
